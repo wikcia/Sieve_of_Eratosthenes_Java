@@ -8,6 +8,7 @@ pierwszych znajdujących się na poszczególnych pozycjach tablicy.
 W przypadku błędnego pierwszego argumentu program wypisze komunikat błędu i skończy
 pracę. W przypadku błednych pozostałych argumentów wypisze, zamiast wartości, informację
 o tym błędzie i przejdzie do obliczeń dla następnego argumentu.
+
 Przykładowe użycie programu:
 > java Test 14 0 2 4 8 -1 aaaa
 0 - 2
